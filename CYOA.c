@@ -12,7 +12,7 @@ int Verify(int Option2){
     }
 }
 int main(){
-
+//hwllo
 int count,check,option;
 char name[100];
 int length = sizeof(name)/sizeof(name[0]);
