@@ -1,0 +1,8 @@
+#define RESET "\e[0m"
+#define PROMPT "\e[1;31m"
+#define USERINPUT "\e[1;32m"
+#define OPTION "\e[1;33m"
+#define STORY "\e[1;35m"
+#define CORRECT "\e[1;36m"
+#define QUESTION "\e[1;37m"
+#define GO "\e[41m"
